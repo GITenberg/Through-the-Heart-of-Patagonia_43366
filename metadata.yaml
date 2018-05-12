@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33174
     wikipedia: http://en.wikipedia.org/wiki/Hesketh_Hesketh-Prichard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43366#Through-the-Heart-of-Patagonia
 gutenberg_issued: '2013-07-31'
 gutenberg_type: Text
 identifiers:
