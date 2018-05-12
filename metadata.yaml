@@ -1,0 +1,43 @@
+_repo: Through-the-Heart-of-Patagonia_43366
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Millais, John Guille
+    alias: Millais, J. G. (John Guille)
+    birthdate: 1865
+    deathdate: 1931
+    gutenberg_agent_id: '40095'
+    url: http://www.gutenberg.org/2009/agents/40095
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prichard, Hesketh Vernon Hesketh
+    aliases:
+    - Pritchard, Hesketh
+    - Hesketh-Prichard, Hesketh Vernon
+    - Hesketh-Prichard, H. (Hesketh)
+    - Prichard, H. Hesketh (Hesketh Vernon Hesketh)
+    birthdate: 1876
+    deathdate: 1922
+    gutenberg_agent_id: '33174'
+    url: http://www.gutenberg.org/2009/agents/33174
+    wikipedia: http://en.wikipedia.org/wiki/Hesketh_Hesketh-Prichard
+description: ''
+gutenberg_issued: '2013-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2801'
+- !lcsh 'Patagonia (Argentina and Chile) -- Discovery and exploration -- British'
+- !lcsh 'Indians of South America -- Patagonia (Argentina and Chile)'
+- !lcsh 'Patagonia (Argentina and Chile) -- Description and travel'
+- !lcsh 'Natural history -- Patagonia (Argentina and Chile)'
+title: Through the Heart of Patagonia
+url: http://www.gutenberg.org/ebooks/43366
